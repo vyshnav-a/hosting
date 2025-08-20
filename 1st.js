@@ -1,5 +1,6 @@
-// es6 : spread operator
-let fruits = ["apple", "banana"]
+// es6 :
+let fruits = [
+"apple", "banana"]
 let veg = ["carrot", "chillies"]
 
 let products = [...fruits, ...veg]
